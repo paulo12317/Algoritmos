@@ -1,0 +1,55 @@
+
+1)
+5 = 8 ? false
+5 != 8 ? true
+5 > 8 ? false
+5 < 8 ? true
+5 >= 8 ? false
+5 <= 8 ? true
+2)
+true
+true
+true
+false
+Gato
+Gato
+Gato
+3)
+Adulto
+4)
+Alfabeto
+
+Atividade Individual
+
+var a = 15;
+var b = 5;
+if ((a > 10 && a < 20) || b == 5)
+print('true');
+else 
+print('false');
+print('2)')
+
+if (a > 10 || b == 5)
+print('true');
+else 
+print('false');
+
+print('3)')
+var c = 10;
+if ((a > 10 && a<20) || b == 5 || c==10) 
+print('true');
+else 
+print('false');
+
+print('4)')
+if (a > 10 || b == 5 || c != 10)
+print('true');
+else 
+print('false');
+
+print('5)')
+var d = 20;
+if ((a > 10 || b == 5) || c != 10 || d != 20)
+print('true');
+else 
+print('false');
